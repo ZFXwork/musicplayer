@@ -1,7 +1,7 @@
 package com.example.data;
 
 /**
- 8歌曲类包括歌曲名、艺术家、路径、时长等属性
+ 8歌曲类包括歌曲名、艺术家、路径、时长等
  包括获取方法
  */
 public class music {
