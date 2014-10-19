@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicPlayer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip_reach_top">已到达最后一曲，现在播放最后一首</string>
+    <string name="tip_reach_bottom">已到达列表底端，现在播放第一首</string>
+    <string name="no_music">没有找到音乐文件</string>
+
+</resources>
